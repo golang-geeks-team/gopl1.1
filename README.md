@@ -1,5 +1,6 @@
 ### 1.1 Hello World
 
+
 ---
 Использование флага -o (указываем выходную директорию бинарника)
 
@@ -89,4 +90,6 @@ $ ./helloworld
 ```bash
 $ go get golang.org/x/tools/cmd/goimports
 ```
+
+[Упражнение 1.1](https://github.com/golang-geeks-team/gopl-echo1/tree/exercise1.1)
 
